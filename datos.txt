@@ -1,0 +1,35 @@
+ *** Pedido de PIZZA *** 
+ Fecha: 24-03-2023 00:03:01 
+ Nombre : Admin 
+ Dirección: Dirección Calle Balderas #27, Centro Histórico Ciudad de Méx 
+ Jampon con queso: 4 
+ Napolitana: 1 
+ Mozzarella 1 
+ ...................................................... 
+ 
+ *** Pedido de PIZZA *** 
+ Fecha: 24-03-2023 00:04:37 
+ Nombre : Antpnip 
+ Dirección: xdxd 
+ Jampon con queso: 4 
+ Napolitana: 1 
+ Mozzarella 1 
+ ...................................................... 
+ 
+ *** Pedido de PIZZA *** 
+ Fecha: 24-03-2023 00:05:02 
+ Nombre : Walter 
+ Dirección: PO Box 44 Abbott, TX 76621-004 
+ Jampon con queso: 5 
+ Napolitana:  
+ Mozzarella  
+ ...................................................... 
+ 
+ *** Pedido de PIZZA *** 
+ Fecha: 24-03-2023 09:15:38 
+ Nombre : Leonel Armando 
+ Dirección: xdxdxd 
+ Jampon con queso:  
+ Napolitana:  
+ Mozzarella 66 
+ ...................................................... 
