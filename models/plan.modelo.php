@@ -46,9 +46,8 @@ class ModeloPlan{
 
 
 
-
 	/*=============================================
-	INGRESAR PLAN
+	INGRESAR PLAN xd
 	=============================================*/
 						 
 						 
@@ -64,7 +63,6 @@ class ModeloPlan{
 		if($stmt->execute()){
 
 			return "ok";
-
 		}else{
 
 			return "error";
